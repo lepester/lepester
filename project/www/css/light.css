@@ -1,0 +1,53 @@
+body  {
+  background-color: #fff;
+}
+
+nav#navig  {
+  background-color: #fff;
+  color: #000;
+}
+
+.dropdown-menu  {
+  background-color: #fff;
+}
+
+
+.dropdown-item  {
+  color: #000;
+}
+
+.navbar-brand  {
+  color: #000;
+}
+
+
+.nav-link  {
+  color: #000;
+}
+
+th#main  {
+  font-weight: 400;
+  color: #708090;
+  background: rgba(220, 220, 220, 0.2);
+}
+
+th#add {
+  font-family: sans-serif;
+  font-weight: normal;
+  background: rgba(220, 220, 220, 0.1);
+}
+
+td {
+  border-top:1px solid #15202b;
+  border-right:1px solid #15202b;
+}
+
+table {
+  overflow:hidden;
+  border:1px solid #fff;
+  box-shadow: 0 8px 10px #c9c9c9;
+  -moz-border-radius:5px; /* FF1+ */
+  -webkit-border-radius:5px; /* Saf3-4 */
+  border-radius:5px;
+  -moz-box-shadow:   4px rgba(0, 0, 0, 0.2);
+}

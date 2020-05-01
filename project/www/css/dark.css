@@ -1,0 +1,87 @@
+body  {
+  background-color: #15202b;
+}
+
+nav#navig  {
+  background-color: #212529 !important;
+
+}
+
+.dropdown-menu  {
+  background-color: #212529;
+  color: #fff;
+}
+
+.dropdown-item  {
+  color: #fff;
+}
+
+.navbar-brand  {
+  color: #fff !important;
+}
+
+.nav-link  {
+  color: #fff !important;
+}
+
+.navbar-light .navbar-toggler   {
+  border-color: rgba(220, 220, 220, 0.5) !important;
+  background-color: rgba(255, 255, 255, 0.5) !important;
+
+}
+
+
+h1  {
+  color: #fff;
+}
+
+
+.col-md-3,
+.col-md-5  {
+   color: #fff;
+}
+
+hr  {
+  display: block; height: 2px;
+  border: 0; border-top: 2px solid #212529;
+}
+
+th  {
+  background: #15202b;
+  color: #fff;
+}
+
+th#main  {
+  font-weight: 400;
+  background: #15202b;
+  color: #708090;
+  background: rgba(220, 220, 220, 0.1);
+}
+
+th#add  {
+  font-family: sans-serif;
+  font-weight: normal;
+  background: rgba(220, 220, 220, 0.1);
+}
+
+td  {
+  border-top:1px solid #15202b;
+  border-right:1px solid #15202b;
+}
+
+table  {
+  overflow:hidden;
+  border:1px solid #fff;
+  -moz-border-radius:5px; /* FF1+ */
+  -webkit-border-radius:5px; /* Saf3-4 */
+  border-radius:5px;
+  -moz-box-shadow:   4px rgba(0, 0, 0, 0.2);
+}
+
+.card-body  {
+  background: rgba(33, 37, 41, 1.0);
+}
+
+h5, h3  {
+  color: #fff;
+}
